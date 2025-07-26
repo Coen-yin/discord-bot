@@ -10,9 +10,9 @@ const { createCanvas, loadImage } = require('canvas');
 
 // ===== VORTEX BOT CONFIGURATION =====
 const config = {
-    token: 'YOUR_BOT_TOKEN_HERE', // Replace with your bot token
+    token: 'MTM5ODQ4MTAxNjI4NDUxNjQ4Nw.G7PeRM._ENR1dbldH21w5-o1bXceq4jN5SrDI7XYjDHL0', // Replace with your bot token
     prefix: '!',
-    owners: ['YOUR_USER_ID_HERE'], // Replace with your Discord user ID
+    owners: ['1257726366724657296'], // Replace with your Discord user ID
     mongoUrl: 'mongodb://localhost:27017/vortexbot', // MongoDB connection
     groqApiKey: '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',
     version: '2.1.0',
